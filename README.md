@@ -13,3 +13,19 @@ en este ejercio se refuerza conceptos de:
 autor
 
 Esteban Vanegas A.
+
+------------------------------------
+
+I exercise a calculator that adds, subtracts, multiplies, potentiates and calculates the root so that the numbers are entered or randomly.
+
+In this exercise, concepts of:
+
+-methods
+-builders
+-return
+-object(class)
+-instances
+
+author
+
+Esteban Vanegas A.
